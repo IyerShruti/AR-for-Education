@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="QR_code" size="0.130000 0.116828" />
+    <ImageTarget name="Sine_wave" size="0.158000 0.093694" />
+    <ImageTarget name="Water_molecule" size="0.210000 0.151457" />
+    <ImageTarget name="Cell" size="0.193000 0.129572" />
+    <ImageTarget name="DNA_2" size="0.204000 0.201509" />
+    <ImageTarget name="Jama" size="0.194000 0.098819" />
+    <ImageTarget name="Solar2" size="0.405000 0.146326" />
+  </Tracking>
+</QCARConfig>
